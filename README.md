@@ -37,3 +37,11 @@ Zoning records digitization, planning support, and public-facing documentation.
 **Previously at the City of Dubuque** — IT Department and Law Enforcement Center
 
 **On campus** — AV Coordinator and Library Assistant, Loras College
+
+
+---
+
+##  Get in Touch
+
+-  Email: paudelsneha00@gmail.com
+- LinkedIn: [linkedin.com/in/sneha-paudel](https://linkedin.com/in/sneha-paudel)
