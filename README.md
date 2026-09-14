@@ -1,7 +1,6 @@
 # Hi, I'm Sneha "Ishu" Paudel 👋
 
 Computer Science & Data Science double major at Loras College in Dubuque, Iowa, originally from Nepal. I like problems that sit between technical systems and the people who have to use them — which is also why I'm headed toward patent law after graduation.
-<<<<<<< HEAD
 
 
 ## Technical Skills
@@ -48,7 +47,6 @@ Zoning records digitization, planning support, and public-facing documentation.
 - LinkedIn: [linkedin.com/in/sneha-paudel](https://linkedin.com/in/sneha-paudel)
 
 
----
 
 ## 🌍 Beyond the Code
 
@@ -58,8 +56,7 @@ Zoning records digitization, planning support, and public-facing documentation.
 - 🍛 I love cooking 
 - 🎨 Graphic and web design, which keeps sneaking into my CS projects
 
----
+
 
 <sub>Thanks for stopping by — feel free to look around.</sub>
-=======
->>>>>>> 524cdc6e3bbd4170d02a61c21095bf90cd159663
+
