@@ -16,3 +16,24 @@ Java · Python · C · C++ · SQL
 
 **Tools**
 Git · VS Code · Squarespace · Arduino
+
+
+---
+
+## What I'm Working On
+
+- **Small-business web development** — designing and building a Squarespace site for a local beauty salon, from layout and branding through launch
+- **Data structures in practice** — a comparative analysis of which structures fit real workloads (IoT sensor streams vs. employee record lookups)
+- **Municipal data** — digitizing zoning and planning records as a Planning Intern with the City of Dubuque
+- **Learning goal:** deepening my Python and SQL work on real datasets, and getting comfortable with collaborative Git workflows
+
+---
+
+##Experience
+
+**Planning Intern** — City of Dubuque, Planning Services
+Zoning records digitization, planning support, and public-facing documentation.
+
+**Previously at the City of Dubuque** — IT Department and Law Enforcement Center
+
+**On campus** — AV Coordinator and Library Assistant, Loras College
