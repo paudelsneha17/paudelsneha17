@@ -45,3 +45,18 @@ Zoning records digitization, planning support, and public-facing documentation.
 
 -  Email: paudelsneha00@gmail.com
 - LinkedIn: [linkedin.com/in/sneha-paudel](https://linkedin.com/in/sneha-paudel)
+
+
+---
+
+## 🌍 Beyond the Code
+
+- First-generation international student, and former president of the Global Student Union — now its Marketing Chair
+- President of Better Together, Loras' interfaith organization
+- 📷 Photography 
+- 🍛 I love cooking 
+- 🎨 Graphic and web design, which keeps sneaking into my CS projects
+
+---
+
+<sub>Thanks for stopping by — feel free to look around.</sub>
