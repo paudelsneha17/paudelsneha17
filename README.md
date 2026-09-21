@@ -1,6 +1,6 @@
 # Hi, I'm Sneha "Ishu" Paudel 👋
 
-Computer Science & Data Science double major at Loras College in Dubuque, Iowa, originally from Nepal. I like problems that sit between technical systems and the people who have to use them — which is also why I'm headed toward patent law after graduation.
+Computer Science & Data Science double major at Loras College in Dubuque, Iowa, originally from Nepal. I like problems that sit between technical systems and the people who have to use them  which is also why I'm headed toward patent law after graduation.
 
 
 ## Technical Skills
@@ -9,7 +9,7 @@ Computer Science & Data Science double major at Loras College in Dubuque, Iowa, 
 Java · Python · C · C++ · SQL
 
 **Coursework & areas**
-- Data Structures & Algorithms — linked lists, stacks, queues, BSTs, red-black trees, hash tables, graphs
+- Data Structures & Algorithms, linked lists, stacks, queues, BSTs, red-black trees, hash tables, graphs
 - Operating Systems, Computer Architecture
 - Robotics — Arduino microcontroller programming in C/C++
 - Data analysis, pricing analysis, finance & accounting fundamentals
@@ -22,21 +22,21 @@ Git · VS Code · Squarespace · Arduino
 
 ## What I'm Working On
 
-- **Small-business web development** — designing and building a Squarespace site for a local beauty salon, from layout and branding through launch
-- **Data structures in practice** — a comparative analysis of which structures fit real workloads (IoT sensor streams vs. employee record lookups)
-- **Municipal data** — digitizing zoning and planning records as a Planning Intern with the City of Dubuque
+- **Small-business web development**  designing and building a Squarespace site for a local beauty salon, from layout and branding through launch
+- **Data structures in practice**  a comparative analysis of which structures fit real workloads (IoT sensor streams vs. employee record lookups)
+- **Municipal data** digitizing zoning and planning records as a Planning Intern with the City of Dubuque
 - **Learning goal:** deepening my Python and SQL work on real datasets, and getting comfortable with collaborative Git workflows
 
 ---
 
-##Experience
+# Experience
 
-**Planning Intern** — City of Dubuque, Planning Services
+**Planning Intern** City of Dubuque, Planning Services
 Zoning records digitization, planning support, and public-facing documentation.
 
 **Previously at the City of Dubuque** — IT Department and Law Enforcement Center
 
-**On campus** — AV Coordinator and Library Assistant, Loras College
+**On campus**  AV Coordinator and Library Assistant, Loras College
 
 
 ---
