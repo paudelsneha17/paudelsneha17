@@ -11,7 +11,7 @@ Java · Python · C · C++ · SQL
 **Coursework & areas**
 - Data Structures & Algorithms, linked lists, stacks, queues, BSTs, red-black trees, hash tables, graphs
 - Operating Systems, Computer Architecture
-- Robotics — Arduino microcontroller programming in C/C++
+- Robotics  Arduino microcontroller programming in C/C++
 - Data analysis, pricing analysis, finance & accounting fundamentals
 
 **Tools**
