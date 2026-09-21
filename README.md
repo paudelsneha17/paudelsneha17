@@ -50,7 +50,7 @@ Zoning records digitization, planning support, and public-facing documentation.
 
 ## 🌍 Beyond the Code
 
-- First-generation international student, and former president of the Global Student Union — now its Marketing Chair
+- First-generation international student, and former president of the Global Student Union now its Marketing Chair
 - President of Better Together, Loras' interfaith organization
 - 📷 Photography 
 - 🍛 I love cooking 
